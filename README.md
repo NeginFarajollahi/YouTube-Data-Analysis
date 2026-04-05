@@ -23,8 +23,8 @@ Due to data privacy best practices (GDPR compliance), the raw CSV files for this
 <img width="984" height="584" alt="total Youtube views day of the week" src="https://github.com/user-attachments/assets/d7a57529-5dc5-45f6-9716-2c34eba87a3d" />
 
 <img width="984" height="584" alt="top 10 most viewed origami videos" src="https://github.com/user-attachments/assets/e59b83d8-83ba-441c-8882-414c71eaa6e1" />
-<img width="1183" height="484" alt="Daily views over time" src="https://github.com/user-attachments/assets/441a6f1a-6585-4fb5-8dda-2c2<img width="784" height="584" alt="algorithm impact" src="https://github.com/user-attachments/assets/2bf96203-9bee-4678-8b56-4bc53241b00e" />
-2257edd7c" />
+
+<img width="1183" height="484" alt="Daily views over time" src="https://github.com/user-attachments/assets/6ad393f5-b3f4-4065-803a-c1742e96df86" />
 
 <img width="784" height="584" alt="algorithm impact" src="https://github.com/user-attachments/assets/14f03b26-5f4c-44e3-9781-3545d8dec733" />
 
